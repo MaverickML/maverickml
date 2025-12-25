@@ -24,6 +24,7 @@ I'm an Full Stack Developer located in the United States.
 # Current Projects
 
 - **[DaoBin](https://daobin.lol/)** - a simple modern pastebin alternative
+- **[CaptionsFast](https://captionsfast.com/)** - a free youtube captions generator
 
 ## Stats
 <br/>
