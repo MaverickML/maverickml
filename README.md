@@ -25,6 +25,8 @@ I'm an Full Stack Developer located in the United States.
 
 - **[DaoBin](https://daobin.lol/)** - a simple modern pastebin alternative
 - **[CaptionsFast](https://captionsfast.com/)** - a free youtube captions generator
+- **[RoIndex](https://roindex.dev)** - A registry of awesome roblox dev resources
+- **[RoHire](https://rohire.dev)** - A roblox developer job board aggregator
 
 ## Stats
 <br/>
