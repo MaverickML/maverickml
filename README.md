@@ -22,9 +22,6 @@ I'm an Full Stack Developer located in the United States.
 [![Coolify](https://img.shields.io/badge/Coolify-161B22?style=for-the-badge&logo=coolify&logoColor=white)](https://coolify.io/)
 
 # Current Projects
-
-- **[DaoBin](https://daobin.lol/)** - a simple modern pastebin alternative
-- **[CaptionsFast](https://captionsfast.com/)** - a free youtube captions generator
 - **[RoIndex](https://roindex.dev)** - A registry of awesome roblox dev resources
 - **[RoHire](https://rohire.dev)** - A roblox developer job board aggregator
 
