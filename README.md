@@ -22,8 +22,8 @@ I'm an Full Stack Developer located in the United States.
 [![Coolify](https://img.shields.io/badge/Coolify-161B22?style=for-the-badge&logo=coolify&logoColor=white)](https://coolify.io/)
 
 # Current Projects
-- **[RoPage.gg](https://roindex.dev)** - a link-in-bio site builder for Roblox studios showcases, freelancer portfolios, and other Roblox creators
-- **[RoHire](https://rohire.dev)** - A roblox developer job board aggregator
+- **[RoPage.gg](https://ropage.gg)** - a link-in-bio site builder for Roblox studios showcases, freelancer portfolios, and other Roblox creators
+- **[RoHire.dev](https://rohire.dev)** - A roblox developer job board aggregator
 
 ## Stats
 <br/>
