@@ -32,6 +32,8 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2050%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -76,7 +78,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 19:43:39 UTC
+ Last Updated on 18/05/2026 20:10:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
