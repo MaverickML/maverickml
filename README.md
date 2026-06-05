@@ -34,6 +34,31 @@ I'm an Full Stack Developer located in the United States.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%206%20mins-blue?style=flat)
 
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Tuesday                  138 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Wednesday                253 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Thursday                 134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Saturday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -47,7 +72,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2026 20:32:12 UTC
+ Last Updated on 05/06/2026 20:24:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
