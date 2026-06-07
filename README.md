@@ -32,8 +32,6 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%206%20mins-blue?style=flat)
-
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -53,10 +51,10 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+berksandaround           9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +70,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:53:27 UTC
+ Last Updated on 07/06/2026 19:54:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
