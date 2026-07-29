@@ -32,6 +32,10 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2035%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -76,7 +80,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:00:38 UTC
+ Last Updated on 29/07/2026 19:52:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
