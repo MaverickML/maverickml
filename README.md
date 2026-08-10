@@ -32,20 +32,20 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%206%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Tuesday                  139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Wednesday                250 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Thursday                 134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Saturday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Monday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Tuesday                  139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Wednesday                250 commits         ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Thursday                 134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Saturday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 ```
 
 
@@ -55,37 +55,38 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               17 mins             ██████████████░░░░░░░░░░░   57.33 % 
-CSS                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+TypeScript               4 hrs 59 mins       █████████████████░░░░░░░░   69.20 % 
+Rust                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-publish-slave            28 mins             ███████████████████████░░   92.29 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+publish-slave            6 hrs 27 mins       ██████████████████████░░░   89.36 % 
+Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+components               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (100.0%)
+⏱ AI Coding Time: 1 hr 19 mins (18.24%)
 
-✍️ 19 lines written by AI, 1 lines written by hand (95.0% AI-written)
+✍️ 4,411 lines written by AI, 4,932 lines written by hand (47.21% AI-written)
 
 🔤 263,723 Input Tokens, 12,600 Output Tokens
 
 💵 $0.17 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           4,399 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.0% of written lines came from AI
-📝 Concise Prompter — average 10 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.21% of written lines came from AI
+📚 Verbose Prompter — average 8,821 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 72.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:11:48 UTC
+ Last Updated on 10/08/2026 19:30:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
