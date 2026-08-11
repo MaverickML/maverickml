@@ -32,9 +32,9 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2054%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -55,38 +55,39 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       █████████████████░░░░░░░░   69.20 % 
-Rust                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript               7 hrs 43 mins       ███████████████████░░░░░░   75.70 % 
+Rust                     1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🐱‍💻 Projects: 
-publish-slave            6 hrs 27 mins       ██████████████████████░░░   89.36 % 
-Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-components               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+publish-slave            6 hrs 27 mins       ████████████████░░░░░░░░░   63.21 % 
+rohire                   2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Unknown Project          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+components               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (18.24%)
+⏱ AI Coding Time: 3 hrs 9 mins (31.01%)
 
-✍️ 4,411 lines written by AI, 4,932 lines written by hand (47.21% AI-written)
+✍️ 4,417 lines written by AI, 4,962 lines written by hand (47.09% AI-written)
 
-🔤 263,723 Input Tokens, 12,600 Output Tokens
+🔤 504,152 Input Tokens, 27,999 Output Tokens
 
 💵 $0.17 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 4 AI Sessions, 19 AI Prompts
 
 Github-Copilot           4,399 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.21% of written lines came from AI
-📚 Verbose Prompter — average 8,821 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 72.45% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.09% of written lines came from AI
+📚 Verbose Prompter — average 8,407 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 72.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:30:32 UTC
+ Last Updated on 11/08/2026 19:34:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
