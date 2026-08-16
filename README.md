@@ -55,40 +55,40 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               7 hrs 43 mins       ████████████████░░░░░░░░░   64.93 % 
-Rust                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Lua                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               7 hrs 25 mins       ████████████████░░░░░░░░░   65.28 % 
+Rust                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Lua                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🐱‍💻 Projects: 
-publish-slave            6 hrs 27 mins       ██████████████░░░░░░░░░░░   54.22 % 
-rohire                   2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-audiolink-roblox         1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Unknown Project          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-components               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+publish-slave            5 hrs 58 mins       █████████████░░░░░░░░░░░░   52.48 % 
+rohire                   2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+audiolink-roblox         1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+components               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 28 mins (29.16%)
+⏱ AI Coding Time: 2 hrs 57 mins (25.94%)
 
-✍️ 4,417 lines written by AI, 5,172 lines written by hand (46.06% AI-written)
+✍️ 4,398 lines written by AI, 5,171 lines written by hand (45.96% AI-written)
 
-🔤 519,336 Input Tokens, 30,023 Output Tokens
+🔤 255,613 Input Tokens, 17,423 Output Tokens
 
-💵 $0.17 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 20 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
 Github-Copilot           4,399 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.06% of written lines came from AI
-📚 Verbose Prompter — average 8,385 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 73.44% of changed lines were hand-edited
+⚖️ Balanced with AI — 45.96% of written lines came from AI
+📚 Verbose Prompter — average 16,760 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 73.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:55:11 UTC
+ Last Updated on 16/08/2026 18:55:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
