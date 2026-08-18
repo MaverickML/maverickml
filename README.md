@@ -55,37 +55,36 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 43 mins       ███████████████░░░░░░░░░░   58.35 % 
-YAML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-TOML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Lua                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+YAML                     33 mins             ████████░░░░░░░░░░░░░░░░░   33.37 % 
+TOML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Lua                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 
 🐱‍💻 Projects: 
-rohire                   2 hrs 59 mins       ████████████████░░░░░░░░░   63.84 % 
-audiolink-roblox         1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   36.16 % 
+audiolink-roblox         1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (46.01%)
+⏱ AI Coding Time: 18 mins (18.0%)
 
-✍️ 6 lines written by AI, 240 lines written by hand (2.44% AI-written)
+✍️ 0 lines written by AI, 210 lines written by hand (0.0% AI-written)
 
-🔤 255,613 Input Tokens, 17,423 Output Tokens
+🔤 15,184 Input Tokens, 2,024 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 Github-Copilot           917 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.44% of written lines came from AI
-📚 Verbose Prompter — average 4,462 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 7,965 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.04% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +100,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:07:59 UTC
+ Last Updated on 18/08/2026 19:07:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
