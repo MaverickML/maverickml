@@ -55,22 +55,23 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        █████████████████████████   99.69 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               5 hrs 5 mins        █████████████████████░░░░   82.96 % 
+Lua                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-creator-store-suite      5 hrs 6 mins        █████████████████████████   100.00 % 
+creator-store-suite      5 hrs 6 mins        █████████████████████░░░░   83.22 % 
+spaced-repetition        1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 54 mins (95.88%)
+⏱ AI Coding Time: 4 hrs 54 mins (79.79%)
 
-✍️ 274 lines written by AI, 189 lines written by hand (59.18% AI-written)
+✍️ 274 lines written by AI, 393 lines written by hand (41.08% AI-written)
 
 🔤 2,316,553 Input Tokens, 70,478 Output Tokens
 
@@ -81,10 +82,10 @@ creator-store-suite      5 hrs 6 mins        ███████████�
 Github-Copilot           917 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.18% of written lines came from AI
+⚖️ Balanced with AI — 41.08% of written lines came from AI
 📚 Verbose Prompter — average 28,271 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 40.95% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +101,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:08:49 UTC
+ Last Updated on 26/08/2026 20:27:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
