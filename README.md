@@ -55,37 +55,38 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        █████████████████████░░░░   82.96 % 
-Lua                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               3 hrs 5 mins        ██████████████████░░░░░░░   71.22 % 
+Lua                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-creator-store-suite      5 hrs 6 mins        █████████████████████░░░░   83.22 % 
-spaced-repetition        1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+creator-store-suite      2 hrs 17 mins       █████████████░░░░░░░░░░░░   52.80 % 
+spaced-repetition        1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+asset-publisher          1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 54 mins (79.79%)
+⏱ AI Coding Time: 2 hrs 16 mins (52.52%)
 
-✍️ 274 lines written by AI, 393 lines written by hand (41.08% AI-written)
+✍️ 19 lines written by AI, 440 lines written by hand (4.14% AI-written)
 
-🔤 2,316,553 Input Tokens, 70,478 Output Tokens
+🔤 1,574,273 Input Tokens, 30,594 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
 Github-Copilot           917 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.08% of written lines came from AI
-📚 Verbose Prompter — average 28,271 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 58.98% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 4.14% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 97.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:04:17 UTC
+ Last Updated on 30/08/2026 21:20:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
