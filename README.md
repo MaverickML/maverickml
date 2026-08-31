@@ -32,7 +32,7 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2057%20mins-blue?style=flat)
 
@@ -55,38 +55,21 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ██████████████████░░░░░░░   71.22 % 
-Lua                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               2 hrs 7 mins        ██████████████░░░░░░░░░░░   57.26 % 
+Lua                      1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-creator-store-suite      2 hrs 17 mins       █████████████░░░░░░░░░░░░   52.80 % 
-spaced-repetition        1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-asset-publisher          1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+asset-publisher          2 hrs 41 mins       ██████████████████░░░░░░░   72.24 % 
+spaced-repetition        1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 16 mins (52.52%)
-
-✍️ 19 lines written by AI, 440 lines written by hand (4.14% AI-written)
-
-🔤 1,574,273 Input Tokens, 30,594 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-Github-Copilot           917 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.14% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 97.59% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +85,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:20:54 UTC
+ Last Updated on 31/08/2026 22:59:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
