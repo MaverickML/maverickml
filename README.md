@@ -32,7 +32,7 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2057%20mins-blue?style=flat)
 
@@ -55,16 +55,15 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 11 mins       ██████████████░░░░░░░░░░░   57.94 % 
-Lua                      1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TypeScript               2 hrs 11 mins       ████████████████████░░░░░   79.71 % 
+TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Rust                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-asset-publisher          2 hrs 41 mins       ██████████████████░░░░░░░   71.09 % 
-spaced-repetition        1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-cheater-finder           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+asset-publisher          2 hrs 41 mins       ████████████████████████░   97.80 % 
+cheater-finder           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,7 +85,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:13:05 UTC
+ Last Updated on 02/09/2026 21:12:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
