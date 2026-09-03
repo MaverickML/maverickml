@@ -55,21 +55,41 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 11 mins       ████████████████████░░░░░   79.71 % 
-TOML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Rust                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Go                       5 hrs 33 mins       █████████████░░░░░░░░░░░░   50.88 % 
+Rust                     2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+TypeScript               2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🐱‍💻 Projects: 
-asset-publisher          2 hrs 41 mins       ████████████████████████░   97.80 % 
-cheater-finder           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+asset-publisher-go       3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.59 % 
+asset-publisher          2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+rust-sandbox             2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+clearlydev-selfbot       2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+cheater-finder           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (0.39%)
+
+✍️ 0 lines written by AI, 3,974 lines written by hand (0.0% AI-written)
+
+🔤 28,380 Input Tokens, 2,770 Output Tokens
+
+💵 $0.13 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Github-Copilot           917 lines           █████████████████████████   100.00 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,402 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +105,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 21:12:54 UTC
+ Last Updated on 03/09/2026 21:13:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
