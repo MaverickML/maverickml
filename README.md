@@ -32,9 +32,9 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2059%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -55,40 +55,40 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       5 hrs 33 mins       █████████████░░░░░░░░░░░░   50.88 % 
-Rust                     2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-TypeScript               2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Go                       6 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.71 % 
+TypeScript               4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Rust                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🐱‍💻 Projects: 
-asset-publisher-go       3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.59 % 
-asset-publisher          2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-rust-sandbox             2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-clearlydev-selfbot       2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-cheater-finder           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+asset-publisher-go       3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+asset-publisher          2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+multichannel-asset-dashbo2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+rust-sandbox             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+clearlydev-selfbot       2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (0.39%)
+⏱ AI Coding Time: 24 mins (2.7%)
 
-✍️ 0 lines written by AI, 3,974 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,888 lines written by hand (0.0% AI-written)
 
-🔤 28,380 Input Tokens, 2,770 Output Tokens
+🔤 1,324,148 Input Tokens, 49,087 Output Tokens
 
-💵 $0.13 Estimated AI Cost This Week
+💵 $5.04 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 4 AI Sessions, 15 AI Prompts
 
 Github-Copilot           917 lines           █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,402 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,221 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +105,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:13:19 UTC
+ Last Updated on 04/09/2026 20:55:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
