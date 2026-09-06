@@ -32,7 +32,7 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2021%20mins-blue?style=flat)
 
@@ -55,26 +55,26 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       6 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
-TypeScript               4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Rust                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Go                       6 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
+TypeScript               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Rust                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🐱‍💻 Projects: 
-asset-publisher-go       3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-multichannel-asset-dashbo2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-asset-publisher          2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-rust-sandbox             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-clearlydev-selfbot       2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+asset-publisher-go       3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+multichannel-asset-dashbo2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+rust-sandbox             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+clearlydev-selfbot       2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+asset-publisher          1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (2.63%)
+⏱ AI Coding Time: 24 mins (2.81%)
 
-✍️ 0 lines written by AI, 5,925 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,695 lines written by hand (0.0% AI-written)
 
 🔤 1,324,148 Input Tokens, 49,087 Output Tokens
 
@@ -82,7 +82,6 @@ clearlydev-selfbot       2 hrs 25 mins       ████░░░░░░░�
 
 🧠 4 AI Sessions, 15 AI Prompts
 
-Github-Copilot           917 lines           █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -105,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:33:56 UTC
+ Last Updated on 06/09/2026 20:37:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
