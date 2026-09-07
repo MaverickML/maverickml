@@ -55,26 +55,26 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       6 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
-TypeScript               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Rust                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Go                       6 hrs 27 mins       █████████████░░░░░░░░░░░░   50.71 % 
+Rust                     2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+TypeScript               2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Lua                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🐱‍💻 Projects: 
-asset-publisher-go       3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-multichannel-asset-dashbo2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-rust-sandbox             2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-clearlydev-selfbot       2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-asset-publisher          1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+asset-publisher-go       3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+multichannel-asset-dashbo2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+rust-sandbox             2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+clearlydev-selfbot       2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+mcbe-addon-manager       1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (2.81%)
+⏱ AI Coding Time: 24 mins (3.19%)
 
-✍️ 0 lines written by AI, 5,695 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,680 lines written by hand (0.0% AI-written)
 
 🔤 1,324,148 Input Tokens, 49,087 Output Tokens
 
@@ -104,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:37:13 UTC
+ Last Updated on 07/09/2026 21:40:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
