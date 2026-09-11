@@ -55,38 +55,17 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       █████████████░░░░░░░░░░░░   51.09 % 
-Go                       54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Lua                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Lua                      20 mins             ███████████████████████░░   92.08 % 
+Go                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🐱‍💻 Projects: 
-multichannel-asset-dashbo2 hrs 55 mins       ████████████████░░░░░░░░░   65.16 % 
-mcbe-addon-manager       1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.03 % 
-clearlydev-selfbot       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+multichannel-asset-dashbo22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (8.09%)
-
-✍️ 0 lines written by AI, 1,951 lines written by hand (0.0% AI-written)
-
-🔤 1,295,768 Input Tokens, 46,317 Output Tokens
-
-💵 $4.91 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 13 AI Prompts
-
-Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,193 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +81,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:04:00 UTC
+ Last Updated on 11/09/2026 21:07:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
