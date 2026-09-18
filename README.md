@@ -55,16 +55,39 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Luau                     2 hrs 13 mins       ███████████████████████░░   90.69 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backrooms-supply-co      1 hr 29 mins        ███████████████░░░░░░░░░░   60.73 % 
+Game                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+UI                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+ReplicatedStorage        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Lobby                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 19 mins (94.82%)
+
+✍️ 8,024 lines written by AI, 37 lines written by hand (99.54% AI-written)
+
+🔤 152,534 Input Tokens, 1,389 Output Tokens
+
+💵 $1.43 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 26 AI Prompts
+
+Github-Copilot           8,028 lines         █████████████████████████   100.00 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.54% of written lines came from AI
+📝 Concise Prompter — average 152 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🚀 High AI Trust — 0.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:35:50 UTC
+ Last Updated on 18/09/2026 21:05:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
