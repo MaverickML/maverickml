@@ -32,9 +32,9 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2041%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -55,39 +55,39 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Luau                     2 hrs 13 mins       ███████████████████████░░   90.69 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Luau                     2 hrs 51 mins       ███████████████████████░░   92.57 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-backrooms-supply-co      1 hr 29 mins        ███████████████░░░░░░░░░░   60.73 % 
-Game                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-UI                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-ReplicatedStorage        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Lobby                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+backrooms-supply-co      1 hr 44 mins        ██████████████░░░░░░░░░░░   56.41 % 
+Game                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+UI                       13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Modules                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+ReplicatedStorage        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (94.82%)
+⏱ AI Coding Time: 2 hrs 56 mins (95.26%)
 
-✍️ 8,024 lines written by AI, 37 lines written by hand (99.54% AI-written)
+✍️ 9,623 lines written by AI, 72 lines written by hand (99.26% AI-written)
 
-🔤 152,534 Input Tokens, 1,389 Output Tokens
+🔤 706,073 Input Tokens, 1,715 Output Tokens
 
-💵 $1.43 Estimated AI Cost This Week
+💵 $3.10 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 26 AI Prompts
+🧠 2 AI Sessions, 37 AI Prompts
 
-Github-Copilot           8,028 lines         █████████████████████████   100.00 % 
+Github-Copilot           9,627 lines         █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📝 Concise Prompter — average 152 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 0.46% of changed lines were hand-edited
+🤖 AI-Driven — 99.26% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:05:58 UTC
+ Last Updated on 19/09/2026 20:54:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
