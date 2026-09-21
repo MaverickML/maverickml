@@ -55,24 +55,26 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Luau                     2 hrs 51 mins       ███████████████████████░░   92.57 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Luau                     2 hrs 51 mins       ███████████████░░░░░░░░░░   61.49 % 
+TypeScript               1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-backrooms-supply-co      1 hr 44 mins        ██████████████░░░░░░░░░░░   56.41 % 
-Game                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-UI                       13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Modules                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-ReplicatedStorage        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+backrooms-supply-co      1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   37.47 % 
+better-creator-store-anal1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Game                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+UI                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Modules                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (95.26%)
+⏱ AI Coding Time: 2 hrs 56 mins (63.28%)
 
-✍️ 9,623 lines written by AI, 72 lines written by hand (99.26% AI-written)
+✍️ 9,623 lines written by AI, 1,237 lines written by hand (88.61% AI-written)
 
 🔤 706,073 Input Tokens, 1,715 Output Tokens
 
@@ -84,10 +86,10 @@ Github-Copilot           9,627 lines         ███████████�
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.26% of written lines came from AI
+🤖 AI-Driven — 88.61% of written lines came from AI
 📝 Concise Prompter — average 163 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🚀 High AI Trust — 14.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +105,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 20:59:32 UTC
+ Last Updated on 21/09/2026 22:07:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
