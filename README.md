@@ -55,41 +55,40 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Luau                     2 hrs 51 mins       ███████████████░░░░░░░░░░   61.49 % 
-TypeScript               1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               1 hr 29 mins        █████████████████░░░░░░░░   67.13 % 
+Luau                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-backrooms-supply-co      1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   37.47 % 
-better-creator-store-anal1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
-Game                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-UI                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Modules                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+better-creator-store-anal1 hr 35 mins        ██████████████████░░░░░░░   71.87 % 
+backrooms-supply-co      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Game                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Modules                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+EntityComponents         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (63.28%)
+⏱ AI Coding Time: 36 mins (27.29%)
 
-✍️ 9,623 lines written by AI, 1,237 lines written by hand (88.61% AI-written)
+✍️ 1,599 lines written by AI, 1,200 lines written by hand (57.13% AI-written)
 
-🔤 706,073 Input Tokens, 1,715 Output Tokens
+🔤 553,539 Input Tokens, 326 Output Tokens
 
-💵 $3.10 Estimated AI Cost This Week
+💵 $1.67 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 37 AI Prompts
+🧠 1 AI Sessions, 11 AI Prompts
 
-Github-Copilot           9,627 lines         █████████████████████████   100.00 % 
-Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           1,599 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.61% of written lines came from AI
-📝 Concise Prompter — average 163 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 14.24% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.13% of written lines came from AI
+📝 Concise Prompter — average 189 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 49.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +104,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:40:29 UTC
+ Last Updated on 25/09/2026 21:46:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
