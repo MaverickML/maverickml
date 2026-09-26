@@ -55,40 +55,20 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        █████████████████░░░░░░░░   67.13 % 
-Luau                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               1 hr 29 mins        ███████████████████████░░   93.40 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-better-creator-store-anal1 hr 35 mins        ██████████████████░░░░░░░   71.87 % 
-backrooms-supply-co      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Game                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Modules                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-EntityComponents         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+better-creator-store-anal1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (27.29%)
-
-✍️ 1,599 lines written by AI, 1,200 lines written by hand (57.13% AI-written)
-
-🔤 553,539 Input Tokens, 326 Output Tokens
-
-💵 $1.67 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 11 AI Prompts
-
-Github-Copilot           1,599 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.13% of written lines came from AI
-📝 Concise Prompter — average 189 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 49.41% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +84,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:46:05 UTC
+ Last Updated on 26/09/2026 21:22:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
