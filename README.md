@@ -55,20 +55,38 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        ███████████████████████░░   93.40 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               1 hr 56 mins        ███████████████████████░░   93.88 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-better-creator-store-anal1 hr 35 mins        █████████████████████████   100.00 % 
+better-creator-store-anal1 hr 35 mins        ███████████████████░░░░░░   76.79 % 
+rasterwork               28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 27 mins (21.95%)
+
+✍️ 540 lines written by AI, 1,166 lines written by hand (31.65% AI-written)
+
+🔤 33,288 Input Tokens, 24 Output Tokens
+
+💵 $0.10 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 15 AI Prompts
+
+Code                     491 lines           ███████████████░░░░░░░░░░   60.84 % 
+GPT                      316 lines           ██████████░░░░░░░░░░░░░░░   39.16 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 31.65% of written lines came from AI
+📄 Detailed Prompter — average 756 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 65.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +102,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:22:48 UTC
+ Last Updated on 27/09/2026 21:31:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
