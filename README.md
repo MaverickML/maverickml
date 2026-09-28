@@ -32,9 +32,9 @@ I'm an Full Stack Developer located in the United States.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2045%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -55,23 +55,19 @@ Sunday                   118 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ███████████████████████░░   93.88 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               27 mins             ████████████████████████░   95.46 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🐱‍💻 Projects: 
-better-creator-store-anal1 hr 35 mins        ███████████████████░░░░░░   76.79 % 
-rasterwork               28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+rasterwork               28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (21.95%)
+⏱ AI Coding Time: 27 mins (94.59%)
 
-✍️ 540 lines written by AI, 1,166 lines written by hand (31.65% AI-written)
+✍️ 540 lines written by AI, 1 lines written by hand (99.82% AI-written)
 
 🔤 33,288 Input Tokens, 24 Output Tokens
 
@@ -83,10 +79,10 @@ Code                     491 lines           ███████████�
 GPT                      316 lines           ██████████░░░░░░░░░░░░░░░   39.16 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.65% of written lines came from AI
+🤖 AI-Driven — 99.82% of written lines came from AI
 📄 Detailed Prompter — average 756 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 65.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +98,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:31:28 UTC
+ Last Updated on 28/09/2026 23:26:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
